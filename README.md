@@ -1,0 +1,3 @@
+# proyectoeliminar
+este es un repositorio de un programa que elimina los datos de un alumno
+este es mi archivo readme donde explico todo acerca de este proyecto....
